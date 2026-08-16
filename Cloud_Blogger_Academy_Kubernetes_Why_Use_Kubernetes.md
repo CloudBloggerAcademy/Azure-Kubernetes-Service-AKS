@@ -347,27 +347,15 @@ Kubernetes provides capabilities such as:
 
 ---
 
-# 🎯 Interview Answer
 
-> **Kubernetes was introduced to solve the challenges of managing containerized applications at scale. It provides automation for deployment, scaling, self-healing, service discovery, load balancing, rolling updates, and resource management, making it easier to run reliable applications in production.**
 
 ---
 
-# 🚀 Cloud Blogger Academy
+# Cloud Blogger Academy
 
 ## Learn Cloud & DevOps the Practical Way
 
-**Cloud Blogger Academy** provides practical learning focused on:
 
-- ☁️ Microsoft Azure
-- ☁️ AWS
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🔧 Terraform
-- 🔄 CI/CD
-- 📊 Prometheus & Grafana
-- 🚀 DevOps
-- 🤖 AI & ML
 
 ### Start Learning Today
 
