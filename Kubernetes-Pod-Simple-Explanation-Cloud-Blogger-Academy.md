@@ -1,4 +1,4 @@
-# 🚀 Cloud Blogger Academy
+# Cloud Blogger Academy
 ## Kubernetes Pod — Simple Explanation
 
 > **Learn Cloud, DevOps & Kubernetes with Cloud Blogger Academy**
@@ -201,7 +201,7 @@ More precisely:
 
 ---
 
-# 🔥 Final Concept
+# Final Concept
 
 ```text
 KUBERNETES
@@ -217,7 +217,7 @@ APPLICATION
 
 ---
 
-# 🎓 Learn Kubernetes & Azure with Cloud Blogger Academy
+# Learn Kubernetes & Azure with Cloud Blogger Academy
 
 Want to learn **Azure Kubernetes Service (AKS), Kubernetes, Docker, DevOps and Cloud technologies** in a practical way?
 
