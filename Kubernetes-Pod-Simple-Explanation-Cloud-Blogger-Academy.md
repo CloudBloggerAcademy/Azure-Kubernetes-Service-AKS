@@ -217,7 +217,7 @@ APPLICATION
 
 ---
 
-# Learn Kubernetes & Azure with Cloud Blogger Academy
+# Learn Azure Kubernetes Service with Cloud Blogger Academy
 
 Want to learn **Azure Kubernetes Service (AKS), Kubernetes, Docker, DevOps and Cloud technologies** in a practical way?
 
