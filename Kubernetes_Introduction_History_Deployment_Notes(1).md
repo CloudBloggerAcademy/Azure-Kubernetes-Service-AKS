@@ -195,7 +195,7 @@ These environments can be useful for organizations with requirements around:
 
 ---
 
-# 🚀 Learn Azure Kubernetes Service (AKS)
+# Learn Azure Kubernetes Service (AKS)
 
 Want to learn Kubernetes practically on Microsoft Azure?
 
