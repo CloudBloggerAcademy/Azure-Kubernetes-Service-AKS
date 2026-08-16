@@ -1,4 +1,4 @@
-# ☁️ Cloud Blogger Academy
+# Cloud Blogger Academy
 
 ## Microservices → Containers → Pods → AKS
 
@@ -302,7 +302,7 @@ AKS
 
 ------------------------------------------------------------------------
 
-# 🚀 Learn Azure Kubernetes Service (AKS)
+# Learn Azure Kubernetes Service (AKS)
 
 **Cloud Blogger Academy** provides practical Azure and Kubernetes
 training designed to help students understand concepts from fundamentals
